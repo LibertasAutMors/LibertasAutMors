@@ -1,29 +1,29 @@
-# 👋 Welcome to my GitHub Profile!
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=LibertasAutMors&fontSize=40)
-
-## ✨ About Me
-- 🎯 I'm currently studying **Java Full-Stack Development**, with a focus on **Java**
-- 💻 I have basic knowledge of **C** and **Python**
-- 🚀 I'm still learning, but I have a strong will to improve and grow through steady effort
-- 🎨 Interested in web development, UI/UX, and design systems
-
-## 📊 My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LibertasAutMors&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LibertasAutMors&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
----
-
-📫 **Contact**  
-📧 Email: suoil88@naver.com  
-🌐 Portfolio: *(coming soon)*  
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Suhyun%20Profile!&animation=twinkling&fontColor=000000&fontSize=70" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 저는 아직 잘하지는 않지만 노력을 통해서 열심히 성장할 개발자입니다. </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <br/></div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center">  </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=LibertasAutMors&bg_color=60,d490fe,62feb5&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LibertasAutMors&layout=compact&bg_color=60,d490fe,62feb5&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+    </div>
+    
 
 
